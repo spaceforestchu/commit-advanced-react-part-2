@@ -1,0 +1,7 @@
+.error-container {
+  max-width: 487.5px;
+  margin: 0 auto;
+}
+.error-container span {
+  color: red;
+}
